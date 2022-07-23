@@ -23,5 +23,5 @@ We are inviting everyone in the community to join the call, including traders, q
 | No. |           Date           |                        Agenda                       |    Recording   |
 |-----|:------------------------:|:---------------------------------------------------:|:--------------:|
 | 003 | July 27, 2022 ; 2:00 PM UTC | [agenda](https://github.com/hummingbot/pm/issues/3) | To Be Recorded |
-| 002 | July 20, 2022 ; 2:00 PM UTC | [agenda](https://github.com/hummingbot/pm/issues/2) | To Be Uploaded |
+| 002 | July 20, 2022 ; 2:00 PM UTC | [agenda](https://github.com/hummingbot/pm/issues/2) | [Audio](https://drive.google.com/file/d/1BijPhEh2jFfgWzWixoVFAZgycogX5Hfb/view?usp=sharing) |
 | 001 | July 13, 2022 ; 2:00 PM UTC | [agenda](https://github.com/hummingbot/pm/issues/1) |  Not Recorded  |
