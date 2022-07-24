@@ -10,7 +10,7 @@ The Weekly Developer Call is technical & general discussion intended to gather a
 
 ### **Agendas**
 
-The agendas for the calls are tracked in the Issues tab of this repository, under the “agenda” label ([link](https://github.com/carlitogetaladajr/pm/issues?q=is%3Aissue+label%3Aagenda+)). To add an item to an agenda, please open an issue in this repository.
+The agendas for the calls are tracked in the Issues tab of this repository, under the “agenda” label ([link](https://github.com/hummingbot/pm/issues?q=is%3Aissue+is%3Aagenda)). To add an item to an agenda, please open an issue in this repository.
 
 We welcome anyone to add an item to the agenda. These items must be  related to Hummingbot codebase, & Governance / Improvement Proposals.
 
