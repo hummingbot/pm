@@ -20,8 +20,9 @@ We are inviting everyone in the community to join the call, including traders, q
 
 ### Previous Meetings
 
-| No. |           Date           |                        Agenda                       |    Recording   |
-|-----|:------------------------:|:---------------------------------------------------:|:--------------:|
-| 003 | July 27, 2022 ; 2:00 PM UTC | [agenda](https://github.com/hummingbot/pm/issues/3) | [Video](https://www.youtube.com/watch?v=HmvzS4ugfgU) |
-| 002 | July 20, 2022 ; 2:00 PM UTC | [agenda](https://github.com/hummingbot/pm/issues/2) | [Audio](https://drive.google.com/file/d/1BijPhEh2jFfgWzWixoVFAZgycogX5Hfb/view?usp=sharing) |
-| 001 | July 13, 2022 ; 2:00 PM UTC | [agenda](https://github.com/hummingbot/pm/issues/1) |  Not Recorded  |
+| No. |            Date           |      Meeting Name      |                        Agenda                       |                                    Recording                                    |
+|-----|:-------------------------:|:----------------------:|:---------------------------------------------------:|:-------------------------------------------------------------------------------:|
+| 004 | August 3, 2022 ; 6:00 UTC | Monthly Community Call | [agenda](https://github.com/hummingbot/pm/issues/4) | [Video](https://www.youtube.com/watch?v=tCG6QvDqvMM)                            |
+| 003 | July 27, 2022 ; 6:00 UTC  |  Weekly Developer Call | [agenda](https://github.com/hummingbot/pm/issues/3) |               [Video](https://www.youtube.com/watch?v=HmvzS4ugfgU)              |
+| 002 | July 20, 2022 ; 6:00 UTC  |  Weekly Developer Call | [agenda](https://github.com/hummingbot/pm/issues/2) | [Audio](https://drive.google.com/file/d/1BijPhEh2jFfgWzWixoVFAZgycogX5Hfb/view) |
+| 001 | July 13, 2022 ; 6:00 UTC  |  Weekly Developer Call | [agenda](https://github.com/hummingbot/pm/issues/1) |                                   Not Recorded                                  |
